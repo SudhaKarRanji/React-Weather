@@ -10,5 +10,5 @@
 - openweather Api
 
 ⚡LIVE WEBSITE:
-
-![Alt Text](https://media.giphy.com/media/26BRLGB7eWATEI1Ik/source.gif)
+https://weather-man8.netlify.app/
+<!-- ![Alt Text](https://media.giphy.com/media/26BRLGB7eWATEI1Ik/source.gif) -->
